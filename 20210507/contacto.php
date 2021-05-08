@@ -1,1 +1,1 @@
-Hola este es el contacto 
+<p>Hola este es el contacto </p>
